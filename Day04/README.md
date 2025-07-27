@@ -1,7 +1,6 @@
 # Day 4: Networks
 ## What is a network?
 - It is a collection of devices which are connected to each other and share data to each other.They can be linked by wired or wireless connections.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef0ee5d5-9cb6-4584-a670-1f8f3b89cd51" />
 
 ##  Subnet
 - Subnet masks are used to identify which part of the IP address refers to the network and which part refers to the host.
